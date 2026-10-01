@@ -41,9 +41,8 @@ python hangman.py
 ## Project Structure
 
 Task1_Hangman/
-│
-├── hangman.py
-└── README.md
+1. hangman.py
+2. README.md
 
 
 ## How the Game Works
@@ -64,7 +63,8 @@ Guess the word one letter at a time.
 You have 6 incorrect guesses.
 
 Word: _ _ _ _ _ _ _ _ _
-Guessed letters:
+
+Guessed letters: p
 Incorrect guesses: 0 / 6
 Guess a letter: p
 
