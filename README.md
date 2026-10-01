@@ -65,7 +65,9 @@ You have 6 incorrect guesses.
 Word: _ _ _ _ _ _ _ _ _
 
 Guessed letters: p
+
 Incorrect guesses: 0 / 6
+
 Guess a letter: p
 
 Correct guess!
